@@ -2,8 +2,6 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-**LIVE SITE RUNNING:** https://railsmusicapp.herokuapp.com/
-
 ## Features
 
 - Save your artists favorite albums
@@ -21,9 +19,11 @@ Install the dependencies and devDependencies and start the server.
 [Yarn](https://yarnpkg.com/getting-started/install)
 
 **Then run**
+
 ```sh
 gem install rails
 bundle install
 rails s
 ```
+
 Then enter http://localhost:3000/
